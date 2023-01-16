@@ -1,0 +1,4 @@
+; userconfig /home/builder/.jenkins/jobs/FDD test - simple project/workspace@tmp/config3550090785588839693tmp
+always-auth = true
+registry = "http://43.204.212.203:8081/repository/NPM_new_server/"
+strict-ssl = false
